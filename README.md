@@ -36,23 +36,43 @@ BSC Science Laboratory Technology (Microbiology Option)  University Of Jos, (Feb
 ## **Meal Recommender System**
 Publication
 
+https://github.com/graciousgift/Portfolio/blob/main/image/Image%201%20recomm.png
+
+https://github.com/graciousgift/Portfolio/blob/main/image/Image%202%20recomm.png
+
 Data used was generated using **Python Modules**, and all data analysis was done using Python modules. The recommender system was developed using Python as well. The data was deployed as API using Streamlit.
 
 ## **Data Gathering**
 Publication
+
+https://github.com/graciousgift/Portfolio/blob/main/image/Image%203%20recomm.png
+
 Python Libraries was used to generate Synthetic data and the data was used to build a recommender system model for a meal app to better serve the app users. This project was a great success.
 
 
 ## **Salary Prediction Model**
 Publication
+
+https://github.com/graciousgift/Portfolio/blob/main/image/Salary%20predict%20image.png
+
 The machine learning prediction model was built using a Python pipeline and algorithms. The model was used to predict the earnings of workers in a company.
 
 ### IBM Employee Attrition
 Publication
+
+https://github.com/graciousgift/Portfolio/blob/main/image/Attrition%20Image.png
+
+https://github.com/graciousgift/Portfolio/blob/main/image/Attrition%202.png
+
 The data set was used to determine the reasons behind Employee Attrition. Insights were drawn from various analyses.
 
 ## **Skincare Products EDA**
 Publication
+
+https://github.com/graciousgift/Portfolio/blob/main/image/Skin%20care%20Image%20review.png
+
+https://github.com/graciousgift/Portfolio/blob/main/image/skin%20care.png
+
 Sentiment analysis was used for this project. A **Machine Learning** model was built to predict whether a review is positive or negative. The data set was well explored.
 
 
