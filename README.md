@@ -7,21 +7,22 @@ BSC Science Laboratory Technology (Microbiology Option)  University Of Jos, (Feb
 
 ### Work Experience
 ### Monitoring and Evaluation Associate @ KNCV Nigeria (June 2020 till date):
-	Facilitate improved quality and analysis of routine program data for decision-making.
+[Resume](https://github.com/graciousgift/Project-files/blob/main/Gift's_Resume.docx)
+- Facilitate improved quality and analysis of routine program data for decision-making.
 
-	Drives the implementation of weekly monitoring and evaluation activities across the state.
+- Drives the implementation of weekly monitoring and evaluation activities across the state.
 
-	conduct on-site data verification and participate in the M&E Technical working group to share experiences and best practices.
+- conduct on-site data verification and participate in the M&E Technical working group to share experiences and best practices.
 
-	Organize priority-based monthly supportive supervision and project reviews.
+- Organize priority-based monthly supportive supervision and project reviews.
 
-	Ensure project-wide monitoring, timely and accurate reporting of results across the state.
+- Ensure project-wide monitoring, timely and accurate reporting of results across the state.
 
-	Strengthen the capacity of TB program Ad-hoc staff to implement cascade data analytics for performance monitoring and data-driven decision-making at the state and LGA levels.
+- Strengthen the capacity of TB program Ad-hoc staff to implement cascade data analytics for performance monitoring and data-driven decision-making at the state and LGA levels.
 
-	Continuous data management and processing via the CommCare-based electronic system that ensures real-time data entry, collation, reporting, and analysis for facility-based interventions.
+- Continuous data management and processing via the CommCare-based electronic system that ensures real-time data entry, collation, reporting, and analysis for facility-based interventions.
 
-	Data entry and Validation on DHIS for all TB program Interventions.
+- Data entry and Validation on DHIS for all TB program Interventions.
 
 ### **Data Science intern @Stutern (Jan 2023 till date)**
 •	Built a recommendation system model for a meal app.
@@ -36,42 +37,40 @@ BSC Science Laboratory Technology (Microbiology Option)  University Of Jos, (Feb
 ## **Meal Recommender System**
 [Publication](https://github.com/graciousgift/Project-files/blob/main/Recommender_system.ipynb)
 
-![Recommender System ](/image/Image 1 recomm.png)
+![](/image/download.png)
 
-![](/image/Image 2 recomm.png)
+![](/image/download1.png)
 
 Data used was generated using **Python Modules**, and all data analysis was done using Python modules. The recommender system was developed using Python as well. The data was deployed as API using Streamlit.
 
 ## **Data Gathering**
-Publication
+[Publication](https://github.com/graciousgift/Project-files/blob/main/data_generationF.ipynb)
 
-https://github.com/graciousgift/Portfolio/blob/main/image/Image%203%20recomm.png
+![](/image/download2.png)
 
 Python Libraries was used to generate Synthetic data and the data was used to build a recommender system model for a meal app to better serve the app users. This project was a great success.
 
 
 ## **Salary Prediction Model**
-Publication
+[Publication](https://github.com/graciousgift/Project-files/blob/main/Salary%20Analyses.ipynb)
 
-https://github.com/graciousgift/Portfolio/blob/main/image/Salary%20predict%20image.png
+![](/image/download3.png)
 
 The machine learning prediction model was built using a Python pipeline and algorithms. The model was used to predict the earnings of workers in a company.
 
 ### IBM Employee Attrition
-Publication
+[Publication](https://github.com/graciousgift/Project-files/blob/main/Workers_attrition_project.ipynb)
 
-https://github.com/graciousgift/Portfolio/blob/main/image/Attrition%20Image.png
+![](/image/download4.png)
 
-https://github.com/graciousgift/Portfolio/blob/main/image/Attrition%202.png
-
+![](/image/download5.png)
 The data set was used to determine the reasons behind Employee Attrition. Insights were drawn from various analyses.
 
 ## **Skincare Products EDA**
-Publication
+[Publication](https://github.com/graciousgift/Project-files/blob/main/Skin%20Care%20analyses.ipynb)
 
-https://github.com/graciousgift/Portfolio/blob/main/image/Skin%20care%20Image%20review.png
+![](/image/download6.png)
 
-https://github.com/graciousgift/Portfolio/blob/main/image/skin%20care.png
 
 Sentiment analysis was used for this project. A **Machine Learning** model was built to predict whether a review is positive or negative. The data set was well explored.
 
