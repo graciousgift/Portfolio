@@ -2,8 +2,8 @@
 **Technical Skills: Python, SQL, Machine Learning, NLP, Recommendation System, SPSS, Data web scrabing, Excel**
 
 ### Education
-MSC Public Health            National Open University (Current)
-BSC Science Laboratory Technology (Microbiology Option)  University Of Jos, (February 2018)
+MSc Public Health            National Open University (Current)
+BSc Science Laboratory Technology (Microbiology Option)  University Of Jos, (February 2018)
 
 ### Work Experience
 ### Monitoring and Evaluation Associate @ KNCV Nigeria (June 2020 till date):
