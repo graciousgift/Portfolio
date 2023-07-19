@@ -34,11 +34,11 @@ BSC Science Laboratory Technology (Microbiology Option)  University Of Jos, (Feb
 
 ## Projects
 ## **Meal Recommender System**
-Publication
+[Publication](https://github.com/graciousgift/Project-files/blob/main/Recommender_system.ipynb)
 
-https://github.com/graciousgift/Portfolio/blob/main/image/Image%201%20recomm.png
+![ ](/image/Image 1 recomm.png)
 
-https://github.com/graciousgift/Portfolio/blob/main/image/Image%202%20recomm.png
+![ ](/image/Image 2 recomm.png)
 
 Data used was generated using **Python Modules**, and all data analysis was done using Python modules. The recommender system was developed using Python as well. The data was deployed as API using Streamlit.
 
