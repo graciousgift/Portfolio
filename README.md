@@ -7,7 +7,6 @@
 
 ### Work Experience
 ### Monitoring and Evaluation Associate @ KNCV Nigeria (June 2020 till date):
-[Resume](https://github.com/graciousgift/Project-files/blob/main/Gift's_Resume.docx)
 - Facilitate improved quality and analysis of routine program data for decision-making.
 
 - Drives the implementation of weekly monitoring and evaluation activities across the state.
