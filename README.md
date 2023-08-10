@@ -40,7 +40,7 @@
 
 ![](/image/download1.png)
 
-Data used was generated using **Python Modules**, and all data analysis was done using Python modules. The recommender system was developed using Python as well. The data was deployed as API using Streamlit.
+Data used was generated using **Python Modules**, and all data analysis was done using Python modules. The recommender system was developed using Python as well. The data was deployed as API using Fastapi.
 
 ## **Data Gathering**
 [Publication](https://github.com/graciousgift/Project-files/blob/main/data_generationF.ipynb)
