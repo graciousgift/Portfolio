@@ -2,7 +2,7 @@
 **Technical Skills: Python, SQL, Machine Learning, NLP, Recommendation System, SPSS, Data web scrabing, Excel**
 
 ### Education
-- MSc Public Health            National Open University (Current)
+- MSc Public Health            National Open University (April 2025)
 - BSc Science Laboratory Technology (Microbiology Option)  University Of Jos, (February 2018)
 
 ### Work Experience
@@ -23,7 +23,7 @@
 
 - Data entry and Validation on DHIS for all TB program Interventions.
 
-### **Data Science intern @Stutern (Jan 2023 till date)**
+### **Data Science intern @Stutern (2023)**
 •	Built a recommendation system model for a meal app.
 
 •	The model built was deployed using Streamlit.
