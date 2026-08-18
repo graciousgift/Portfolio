@@ -10,7 +10,7 @@ I turn raw data into clear, decision-ready insight — from predictive models to
 ** 🌐 Portfolio Website**** Live Portfolio: https://gracious**ft.github.io/Portfolio/
 
 🛠️ **Skills & Tools**
-# |Category |	Tools |
+|Category |	Tools |
 |----------||-------|
 |Language|	Python|
 |Data Analysis|	Pandas, NumPy|
