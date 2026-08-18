@@ -97,7 +97,7 @@ EDA 2 (1).ipynb also lives in this repo as supporting exploratory work — worth
 
 
 📫 Let's Connect
-🎯 Resume: https://github.com/graciousgift/Portfolio/commit/22cf9cf4aac566662920718dbc7e7a78bcee8d66
+🎯 Resume: https://github.com/graciousgift/Portfolio/blob/main/Gift_Maren_Resume.docx
 💼 LinkedIn: www.linkedin.com/in/gracious-maren-65585a1a1
 ✉️ Email: graciousgift441@gmail.com
 🐙 GitHub: @graciousgift
