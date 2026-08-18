@@ -19,8 +19,8 @@ I turn raw data into clear, decision-ready insight — from predictive models to
 |Time Series Forecasting|	Statsmodels (ARIMA, SARIMA), seasonal decomposition, stationarity testing|
 |Environment & Workflow|	Jupyter Notebook, Google Colab, Git & GitHub|
 
-🚀 **Featured Projects**
-📈 **Time Series Forecasting** — Nigerian Stock Exchange (NGX) All Share Index
+### 🚀 **Featured Projects**
+## 📈 **Time Series Forecasting** — Nigerian Stock Exchange (NGX) All Share Index
 
 **Group Capstone Project** — TS Academy, Time Series Analysis Track (Group 8)
 
@@ -35,7 +35,7 @@ Delivered a forecast that closely tracked actual market movement, validated agai
 
 [🔗 Repository](https://github.com/graciousgift/TS_Academy_Capstone_Project)
 
-🧪 Data Science Internship Portfolio — Oasis Infobyte (OIBSIP)
+### 🧪 Data Science Internship Portfolio — Oasis Infobyte (OIBSIP)
 
 Four end-to-end machine learning & data analysis projects
 
@@ -56,20 +56,48 @@ Text classification model distinguishing spam from legitimate email	Trained & ev
 
 [🔗 Repository](https://github.com/graciousgift/OIBSIP)
 
-🧪 Data Science Internship project — STUTERN
-🍽️ Meal Recommender System
+### 🧪 Data Science Internship project — STUTERN
 
-## Collaborative project — recommendation engine for a meal-ordering app
+## 🍽️ Meal Recommender System
+
+# Collaborative project — recommendation engine for a meal-ordering app
 
 Built a recommender system to suggest meals to users, working from a purpose-generated meal/user interaction dataset developed collaboratively for the project, including exploratory data analysis to understand usage patterns ahead of building the recommendation logic.
 
 
-## Tech stack: Python · Pandas · Jupyter Notebook
+ Tech stack: Python · Pandas · Jupyter Notebook
+## 👩‍💼 Employee Attrition Prediction
+
+# Workers_attrition_project.ipynb
+
+A predictive model identifying the key drivers behind employee attrition, covering the full pipeline from data cleaning through to visualization, aimed at supporting data-driven workforce retention strategies.
+
+Tech stack: Python · Pandas · scikit-learn · Matplotlib
+
+## 💰 Salary Analysis & Workforce Insights
+
+# Salary Analyses.ipynb
+
+Exploratory data analysis uncovering compensation trends, equity gaps, and role-based salary patterns to support HR decision-making.
+
+Tech stack: Python · Pandas · Seaborn
+
+## 🧴 Skincare Dataset Exploratory Analysis
+
+# Skin Care analyses.ipynb
+
+Exploratory analysis of a skincare product/ingredient dataset to surface trends and insights (analysis only — no predictive model).
+
+Tech stack: Python · Pandas · Matplotlib/Seaborn
+
+EDA 2 (1).ipynb also lives in this repo as supporting exploratory work — worth a short note here once you confirm which project it belongs to.
+
 
 [🔗 Repository](https://github.com/graciousgift/Project-files/tree/main)
 
 
 📫 Let's Connect
+🎯 Resume: 
 💼 LinkedIn: www.linkedin.com/in/gracious-maren-65585a1a1
 ✉️ Email: graciousgift441@gmail.com
 🐙 GitHub: @graciousgift
