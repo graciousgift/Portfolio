@@ -53,33 +53,33 @@ Tech stack: Python · Pandas · NumPy · Matplotlib/Seaborn · scikit-learn
 
 ### 🧪 Data Science Internship project — STUTERN
 
-## 🍽️ Meal Recommender System
+### 🍽️ Meal Recommender System
 
-# Collaborative project — recommendation engine for a meal-ordering app
+#### Collaborative project — recommendation engine for a meal-ordering app
 
 Built a recommender system to suggest meals to users, working from a purpose-generated meal/user interaction dataset developed collaboratively for the project, including exploratory data analysis to understand usage patterns ahead of building the recommendation logic.
 
 
  Tech stack: Python · Pandas · Jupyter Notebook
-## 👩‍💼 Employee Attrition Prediction
+### 👩‍💼 Employee Attrition Prediction
 
-# Workers_attrition_project.ipynb
+#### Workers_attrition_project.ipynb
 
 A predictive model identifying the key drivers behind employee attrition, covering the full pipeline from data cleaning through to visualization, aimed at supporting data-driven workforce retention strategies.
 
 Tech stack: Python · Pandas · scikit-learn · Matplotlib
 
-## 💰 Salary Analysis & Workforce Insights
+### 💰 Salary Analysis & Workforce Insights
 
-# Salary Analyses.ipynb
+#### Salary Analyses.ipynb
 
 Exploratory data analysis uncovering compensation trends, equity gaps, and role-based salary patterns to support HR decision-making.
 
 Tech stack: Python · Pandas · Seaborn
 
-## 🧴 Skincare Dataset Exploratory Analysis
+### 🧴 Skincare Dataset Exploratory Analysis
 
-# Skin Care analyses.ipynb
+#### Skin Care analyses.ipynb
 
 Exploratory analysis of a skincare product/ingredient dataset to surface trends and insights (analysis only — no predictive model).
 
