@@ -1,77 +1,63 @@
-### Data Scientist
-**Technical Skills: Python, SQL, Machine Learning, NLP, Recommendation System, SPSS, Data web scrabing, Excel**
+Hi, I'm Gift Maren 👋
 
-### Education
-- MSc Public Health            National Open University (April 2025)
-- BSc Science Laboratory Technology (Microbiology Option)  University Of Jos, (February 2018)
+Data Analyst & Aspiring Data Scientist | Python · Machine Learning · Time Series Forecasting
 
-### Work Experience
-### Monitoring and Evaluation Associate @ KNCV Nigeria (June 2020 till date):
-- Facilitate improved quality and analysis of routine program data for decision-making.
+I turn raw data into clear, decision-ready insight — from predictive models to forecasting real-world trends. Below is a selection of my recent project work.
 
-- Drives the implementation of weekly monitoring and evaluation activities across the state.
+🛠️ Skills & Tools
+Category	Tools
+Language	Python
+Data Analysis	Pandas, NumPy
+Visualization	Matplotlib, Seaborn, Plotly
+Machine Learning	scikit-learn (classification & regression)
+Time Series Forecasting	Statsmodels (ARIMA, SARIMA), seasonal decomposition, stationarity testing
+Environment & Workflow	Jupyter Notebook, Google Colab, Git & GitHub
+🚀 Featured Projects
+📈 Time Series Forecasting — Nigerian Stock Exchange (NGX) All Share Index
 
-- conduct on-site data verification and participate in the M&E Technical working group to share experiences and best practices.
+Group Capstone Project — TS Academy, Time Series Analysis Track (Group 8)
 
-- Organize priority-based monthly supportive supervision and project reviews.
+Forecasted the Nigerian Stock Exchange All Share Index using 2012–2023 monthly data, following a complete time series workflow from stationarity testing through to model evaluation.
 
-- Ensure project-wide monitoring, timely and accurate reporting of results across the state.
+Ran seasonal decomposition to separate trend, seasonal, and residual components
+Used ACF/PACF analysis to guide model parameter selection
+Benchmarked ARIMA against a seasonal SARIMA model — SARIMA won, achieving a 3.96% Mean Absolute Percentage Error
+Delivered a forecast that closely tracked actual market movement, validated against held-out data
 
-- Strengthen the capacity of TB program Ad-hoc staff to implement cascade data analytics for performance monitoring and data-driven decision-making at the state and LGA levels.
+Tech stack: Python · Pandas · NumPy · Statsmodels · Matplotlib · Seaborn
 
-- Continuous data management and processing via the CommCare-based electronic system that ensures real-time data entry, collation, reporting, and analysis for facility-based interventions.
+🔗 Repository
 
-- Data entry and Validation on DHIS for all TB program Interventions.
+🧪 Data Science Internship Portfolio — Oasis Infobyte (OIBSIP)
 
-### **Data Science intern @Stutern (2023)**
-•	Built a recommendation system model for a meal app.
+Four end-to-end machine learning & data analysis projects
 
-•	The model built was deployed using Streamlit.
+Project	What it does	Result
+🌸 Iris Flower Classification	Classifies Iris species from petal/sepal measurements using a Random Forest classifier, with cross-validation and a learning-curve check for over/underfitting	96–100% test accuracy
+📉 Unemployment Analysis (India, COVID-19)	Analyzed how COVID-19 lockdowns affected unemployment across Indian states using time-series trend, regional, and correlation analysis	Identified states hit hardest and quantified the ~7% → 23%+ unemployment spike during peak lockdown
+🚗 Car Price Prediction	Regression model estimating used-car resale price from vehicle features	Trained & evaluated regression pipeline
+📧 Spam Mail Detection	Text classification model distinguishing spam from legitimate email	Trained & evaluated classification pipeline
 
-•	Built a salary prediction model.
+Tech stack: Python · Pandas · NumPy · Matplotlib/Seaborn · scikit-learn
 
-•	Did a sentiment analysis on a skincare product review.
+🔗 Repository · 🎯 Iris Classifier — Live Colab Demo
 
-## Projects
-## **Meal Recommender System**
-[Publication](https://github.com/graciousgift/Project-files/blob/main/Recommender_system.ipynb)
+🍽️ Meal Recommender System
 
-![](/image/download.png)
+Collaborative project — recommendation engine for a meal-ordering app
 
-![](/image/download1.png)
+Built a recommender system to suggest meals to users, working from a purpose-generated meal/user interaction dataset developed collaboratively for the project, including exploratory data analysis to understand usage patterns ahead of building the recommendation logic.
 
-Data used was generated using **Python Modules**, and all data analysis was done using Python modules. The recommender system was developed using Python as well. The data was deployed as API using Fastapi.
+Tech stack: Python · Pandas · Jupyter Notebook
 
-## **Data Gathering**
-[Publication](https://github.com/graciousgift/Project-files/blob/main/data_generationF.ipynb)
+🔗 Repository
 
-![](/image/download2.png)
+Note: this repo is due for a cleanup — see the maintenance note below.
 
-Python Libraries was used to generate Synthetic data and the data was used to build a recommender system model for a meal app to better serve the app users. This project was a great success.
-
-
-## **Salary Prediction Model**
-[Publication](https://github.com/graciousgift/Project-files/blob/main/Salary%20Analyses.ipynb)
-
-![](/image/download3.png)
-
-The machine learning prediction model was built using a Python pipeline and algorithms. The model was used to predict the earnings of workers in a company.
-
-### IBM Employee Attrition
-[Publication](https://github.com/graciousgift/Project-files/blob/main/Workers_attrition_project.ipynb)
-
-![](/image/download4.png)
-
-![](/image/download5.png)
-The data set was used to determine the reasons behind Employee Attrition. Insights were drawn from various analyses.
-
-## **Skincare Products EDA**
-[Publication](https://github.com/graciousgift/Project-files/blob/main/Skin%20Care%20analyses.ipynb)
-
-![](/image/download6.png)
-
-
-Sentiment analysis was used for this project. A **Machine Learning** model was built to predict whether a review is positive or negative. The data set was well explored.
+📫 Let's Connect
+💼 LinkedIn: www.linkedin.com/in/gracious-maren-65585a1a1
+✉️ Email: graciousgift441@gmail.com
+🐙 GitHub: @graciousgift
 
 
 
