@@ -56,17 +56,18 @@ Text classification model distinguishing spam from legitimate email	Trained & ev
 
 [🔗 Repository](https://github.com/graciousgift/OIBSIP)
 
+🧪 Data Science Internship project — STUTERN
 🍽️ Meal Recommender System
 
 ## Collaborative project — recommendation engine for a meal-ordering app
 
 Built a recommender system to suggest meals to users, working from a purpose-generated meal/user interaction dataset developed collaboratively for the project, including exploratory data analysis to understand usage patterns ahead of building the recommendation logic.
 
+
 ## Tech stack: Python · Pandas · Jupyter Notebook
 
-🔗 Repository
+[🔗 Repository](https://github.com/graciousgift/Project-files/tree/main)
 
-Note: this repo is due for a cleanup — see the maintenance note below.
 
 📫 Let's Connect
 💼 LinkedIn: www.linkedin.com/in/gracious-maren-65585a1a1
