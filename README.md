@@ -1,4 +1,4 @@
-**Hi, I'm Gift Maren** 👋
+# **Hi, I'm Gift Maren** 👋
 
 ## Senior Monitoring, Evaluation and Learning Professional | Data Analyst & Aspiring Data Scientist | Python · Machine Learning · Time Series Forecasting
 
