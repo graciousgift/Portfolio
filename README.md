@@ -10,8 +10,9 @@ I turn raw data into clear, decision-ready insight — from predictive models to
 ** 🌐 Portfolio Website**** Live Portfolio: https://gracious**ft.github.io/Portfolio/
 
 🛠️ **Skills & Tools**
-|---|---|||Category |	Tools|
-|---Language---|---	Python---|
+||Category |	Tools |
+|----------||-------|
+|Language|	Python|
 |Data Analysis|	Pandas, NumPy|
 |Visualization|	Matplotlib, Seaborn, Plotly|
 |Machine Learning	|scikit-learn (classification & regression)|
