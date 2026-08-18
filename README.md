@@ -11,7 +11,7 @@ I turn raw data into clear, decision-ready insight — from predictive models to
 
 🛠️ **Skills & Tools**
 |Category |	Tools|
-|Language|	Python|
+|---Language|---	Python|
 |Data Analysis|	Pandas, NumPy|
 |Visualization|	Matplotlib, Seaborn, Plotly|
 |Machine Learning	|scikit-learn (classification & regression)|
