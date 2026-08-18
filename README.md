@@ -1,8 +1,8 @@
 # **Hi, I'm Gift Maren** 👋
 
-## Senior Monitoring, Evaluation and Learning Professional | Data Analyst & Aspiring Data Scientist | Python · Machine Learning · Time Series Forecasting
+### Senior Monitoring, Evaluation and Learning Professional | Data Analyst & Aspiring Data Scientist | Python · Machine Learning · Time Series Forecasting
 
-## Professional Summary
+### Professional Summary
 
 Experience Monitoring & Evaluation Professional with extensive experience supporting public health programs, data quality assurance, program performance monitoring, and strategic decision-making.
 I turn raw data into clear, decision-ready insight — from predictive models to forecasting real-world trends. Below is a selection of my recent project work.
@@ -20,7 +20,7 @@ I turn raw data into clear, decision-ready insight — from predictive models to
 |Environment & Workflow|	Jupyter Notebook, Google Colab, Git & GitHub|
 
 ### 🚀 **Featured Projects**
-## 📈 **Time Series Forecasting** — Nigerian Stock Exchange (NGX) All Share Index
+ 📈 **Time Series Forecasting** — Nigerian Stock Exchange (NGX) All Share Index
 
 **Group Capstone Project** — TS Academy, Time Series Analysis Track (Group 8)
 
@@ -39,20 +39,15 @@ Delivered a forecast that closely tracked actual market movement, validated agai
 
 Four end-to-end machine learning & data analysis projects
 
-Project	What it does	Result
-## 🌸 Iris Flower Classification
-Classifies Iris species from petal/sepal measurements using a Random Forest classifier, with cross-validation and a learning-curve check for over/underfitting	96–100% test accuracy
 
-## 📉 **Unemployment Analysis (India, COVID-19)**
-Analyzed how COVID-19 lockdowns affected unemployment across Indian states using time-series trend, regional, and correlation analysis	Identified states hit hardest and quantified the ~7% → 23%+ unemployment spike during peak lockdown
+|Project|	What it does|	Result|
+|----------|-------|-------|
+|🌸 Iris Flower| Classification	Classifies Iris species from petal/sepal measurements using a Random Forest classifier, with cross-validation and a learning-curve check for over/underfitting|	96–100% test accuracy|
+|📉 Unemployment Analysis (India, COVID-19)|	Analyzed how COVID-19 lockdowns affected unemployment across Indian states using time-series trend, regional, and correlation analysis|	Identified states hit hardest and quantified the ~7% → 23%+ unemployment spike during peak lockdown|
+|🚗 Car Price| Prediction	Regression model estimating used-car resale price from vehicle features|	Trained & evaluated regression pipeline|
+|📧 Spam Mail| Detection	Text classification model distinguishing spam from legitimate email|	Trained & evaluated classification pipeline|
 
-## 🚗**Car Price Prediction	Regression model** 
-Estimating used-car resale price from vehicle features	Trained & evaluated regression pipeline
-
-## 📧 **Spam Mail Detection**
-Text classification model distinguishing spam from legitimate email	Trained & evaluated classification pipeline
-
-**Tech stack: Python · Pandas · NumPy · Matplotlib/Seaborn · scikit-learn**
+Tech stack: Python · Pandas · NumPy · Matplotlib/Seaborn · scikit-learn
 
 [🔗 Repository](https://github.com/graciousgift/OIBSIP)
 
