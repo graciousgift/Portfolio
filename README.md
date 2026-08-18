@@ -31,9 +31,9 @@ Used ACF/PACF analysis to guide model parameter selection
 Benchmarked ARIMA against a seasonal SARIMA model — SARIMA won, achieving a 3.96% Mean Absolute Percentage Error
 Delivered a forecast that closely tracked actual market movement, validated against held-out data
 
-## Tech stack: Python · Pandas · NumPy · Statsmodels · Matplotlib · Seaborn
+**Tech stack: Python · Pandas · NumPy · Statsmodels · Matplotlib · Seaborn**
 
-🔗 Repository
+[🔗 Repository](https://github.com/graciousgift/TS_Academy_Capstone_Project)
 
 🧪 Data Science Internship Portfolio — Oasis Infobyte (OIBSIP)
 
